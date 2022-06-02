@@ -8,8 +8,8 @@ app = Flask(__name__)
 api = Api(app)
 
 
-username = 'elevateinterviews'
-password = 'ElevateSecurityInterviews2021'
+username = ''
+password = ''
 
 def getIdentities(usrname,passowrd):
     identities = requests.get('https://incident-api.use1stag.elevatesecurity.io/identities/' ,auth=(username,password)).json()
