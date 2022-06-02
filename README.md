@@ -19,7 +19,7 @@ Run requests.py using `py incidents.py`. Once the server has initialized, you wi
 
 To query the API, run `py request.py` in a separate command prompt window. 
 
-<h2>Overall approach<h2>
+<h2>Overall approach</h2>
 <p>
  1. Queried each API endpoint and studied the various key/value pairs
  2. created the incident_types list to store the response from each API along with the the name of the API queried. This is presented in the getData() function as we are essentially collecting raw data from each endpoint
