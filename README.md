@@ -6,10 +6,12 @@
 <p>First, install Python 3 using https://www.python.org/downloads/
 using your command prompt, enter the following commands to install the required libraries: 
 </p>
+ 
 ```python
- pip install flask
- pip install flask-restful
- pip install requests
+s = "Python syntax highlighting"
+print s
 ```
+ 
+
 
 
