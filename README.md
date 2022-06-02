@@ -1,5 +1,4 @@
-# getIncidents
-<h1>getIncident</h1>
+<h1>getIncidents</h1>
 <p>An API written in Python using Flask which queries other APIs, normalizes the data, and creates an endpoint on localhost:9000/incidets. By sending a GET request to /incidents, you will receive and "incident" object which conatins, for each employeee, a list of incidents organized by severity </p>
 
 <h2>Requirements</h2>
