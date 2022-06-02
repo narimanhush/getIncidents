@@ -2,8 +2,8 @@
 <p>An API written in Python using Flask which queries other APIs, normalizes the data, and creates an endpoint on localhost:9000/incident. By sending a GET request to /incident, you will receive an "incident" object which contains, for each employee, a list of incidents organized by severity </p>
 
 <h2>Requirements</h2>
-<p>First, install Python 3 using https://www.python.org/downloads/
-using your command prompt, enter the following commands to install the required libraries: 
+<p>First, install Python 3 using https://www.python.org/downloads/ <br>
+Using your command prompt, enter the following commands to install the required libraries: 
 </p>
  
 ```python
