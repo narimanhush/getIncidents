@@ -4,7 +4,11 @@
 
 <h2>requirements</h2>
 <p>First, install Python 3 using https://www.python.org/downloads/
-using your command prompt, install the following packages: 
-
+using your command prompt, enter the following commands to install the required libraries: 
+```
+  pip install flask
+  pip install flask-restful
+  pip install requests
+```
 </p>
 
