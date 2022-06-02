@@ -8,8 +8,7 @@ using your command prompt, enter the following commands to install the required 
 </p>
  
 ```python
-s = "Python syntax highlighting"
-print s
+pip install flask
 ```
  
 
