@@ -92,15 +92,3 @@ if __name__ == "__main__":
     app.run(debug=True, port= 9000)
 
 
-
-
-    
-
-   
-
-
-
-
-# f = open('out.txt','w')
-# f.write(incidents)
-# f.close()
