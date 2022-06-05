@@ -11,7 +11,7 @@ api = Api(app)
 username = ''
 password = ''
 
-def getIdentities(usrname,passowrd):
+def getIdentities(username,password):
     identities = requests.get('https://incident-api.use1stag.elevatesecurity.io/identities/' ,auth=(username,password)).json()
     return identities
 
